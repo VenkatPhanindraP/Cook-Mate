@@ -27,5 +27,6 @@
 
 ---
 
-## 🧭 Project Structure
+![dashboard_20241208_212438](https://github.com/user-attachments/assets/51810bfd-d49b-4df8-9c6d-67961edc9276)
+
 
